@@ -1,0 +1,26 @@
+Column Names:
+['FIPS', 'Admin2', 'Province_State', 'Country_Region', 'Last_Update', 'Lat', 'Long_', 'Confirmed', 'Deaths', 'Recovered', 'Active', 'Combined_Key', 'Incident_Rate', 'Case_Fatality_Ratio']
+
+First 5 Rows:
+   FIPS Admin2 Province_State Country_Region          Last_Update       Lat      Long_  Confirmed  Deaths  Recovered  Active Combined_Key  Incident_Rate  Case_Fatality_Ratio
+0   NaN    NaN            NaN    Afghanistan  2023-01-08 04:21:05  33.93911  67.709953     207766    7850        NaN     NaN  Afghanistan     533.713985             3.778289
+1   NaN    NaN            NaN        Albania  2023-01-08 04:21:05  41.15330  20.168300     333916    3596        NaN     NaN      Albania   11603.169087             1.076918
+2   NaN    NaN            NaN        Algeria  2023-01-08 04:21:05  28.03390   1.659600     271254    6881        NaN     NaN      Algeria     618.580498             2.536737
+3   NaN    NaN            NaN        Andorra  2023-01-08 04:21:05  42.50630   1.521800      47781     165        NaN     NaN      Andorra   61840.419336             0.345326
+4   NaN    NaN            NaN         Angola  2023-01-08 04:21:05 -11.20270  17.873900     105095    1930        NaN     NaN       Angola     319.765542             1.836434
+
+Missing Values per Column:
+FIPS                    748
+Admin2                  744
+Province_State          179
+Country_Region            0
+Last_Update               0
+Lat                      91
+Long_                    91
+Confirmed                 0
+Deaths                    0
+Recovered              4016
+Active                 4016
+Combined_Key              0
+Incident_Rate            94
+Case_Fatality_Ratio      43

@@ -1,0 +1,5 @@
+Based on the sample data:
+
+1. The USA has the highest total cases and total deaths compared to Kenya and India.
+2. India has a lower number of total cases and deaths compared to the USA, but higher than Kenya.
+3. The vaccination progress is highest in the USA, followed by India and then Kenya.
